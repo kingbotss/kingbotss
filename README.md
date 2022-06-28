@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Bots
 - 🌱 I’m currently learning ...Js, Python
@@ -9,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @kingbotspower
 
 
-# Instagram Private API sourced from dilame's
+# Instagram Private API 
 
 **How to access instagram-private-api**
 
