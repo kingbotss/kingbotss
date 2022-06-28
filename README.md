@@ -2,13 +2,13 @@
 
 
 - 🔭 I’m currently working on ...Bots
-- 🌱 I’m currently learning ...Js, Python
-- 👯 I’m looking to collaborate on ... Instagram-private-api
+- 🌱 I’m currently learning Typescript, Python
+- 👯 I’m looking to collaborate on ... Anything 
 - 💬 Ask me about ... anything
-- 📫 How to reach me: @kingbotspower
+- 📫 How to reach me: @kingbotspower, kingbotspower@gmail.com
 
 
-# Instagram Private API 
+# kingbots Instagram Private API 
 
 **How to access instagram-private-api**
 
