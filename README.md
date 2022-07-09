@@ -21,7 +21,7 @@ Ping me on telegram
  - proxy support
  - 203.*+ android version
  - Headers Based Authentication
- - **Electron Support***
+ - **Electron Support*** (https://github.com/kingbotss/igportable)
  - Registration
  - Web API (native login)
  - support clips(only load and seen)
