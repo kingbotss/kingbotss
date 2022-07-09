@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Typescript, Python
 - 👯 I’m looking to collaborate on ... Anything 
 - 💬 Ask me about ... anything
-- 📫 How to reach me: @kingbotspower, kingbotspower@gmail.com
+- 📫 How to reach me: @kingbotspower
 
 ## Check my Instagram App (Windows)
  https://github.com/kingbotss/igportable
