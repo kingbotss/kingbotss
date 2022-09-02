@@ -19,6 +19,7 @@ Ping me on telegram
 **Features**
  - http2 support
  - proxy support
+ - GraphQl queries
  - 203.*+ android version
  - Headers Based Authentication
  - **Electron Support*** (https://github.com/kingbotss/igportable)
@@ -27,7 +28,7 @@ Ping me on telegram
  - support clips(only load and seen)
 
  **Issues**
- - Some of endpoints may return enexpected error. I only added/updated Which I need. Kindly submit issues. 
+ - Some of endpoints may return enexpected error.
 
 
 
