@@ -14,21 +14,22 @@
 
 **How to access instagram-private-api**
 
-Ping me on telegram
+Ping me on telegram ***@kingbotspower***
+Email: *kingbotspower@gmail.com*
 
 **Features**
- - http2 support
+ - **http2** support
  - proxy support
- - GraphQl queries
+ - **GraphQl** queries
  - 203.*+ android version
- - Headers Based Authentication
- - **Electron Support*** (https://github.com/kingbotss/igportable)
- - Registration
- - Web API (native login)
+ - **Headers Based Authentication**
+ - **Electron Support **(https://github.com/kingbotss/igportable)
+ - **Registration**
+ - **Web API (native login)**
  - support clips(only load and seen)
 
  **Issues**
- - Some of endpoints may return enexpected error.
+ - Kindly ping me.
 
 
 
