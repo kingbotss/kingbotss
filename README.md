@@ -26,12 +26,12 @@ Email: *kingbotspower@gmail.com*
  - 203.*+ android version
  - Custom Agent
  - **Headers Based Authentication**
- - **Electron Support **(https://github.com/kingbotss/igportable)
+ - **Electron Support** (https://github.com/kingbotss/igportable)
  - **Account Registration**
  - **Web API (native login)**
  - **Challenge solve**
- -**Bloks Challenge solve**
- - support clips/reels(only load and seen)
+ - **Bloks Challenge solve**
+ - support **clips/reels**
 
  **Issues**
  - Kindly ping me.
