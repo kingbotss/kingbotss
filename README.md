@@ -21,13 +21,15 @@ Email: *kingbotspower@gmail.com*
 **Features**
  - **http2** support
  - proxy support
- - **GraphQl** queries
+ - **GraphQL** queries
+ - **Client Event Logging**
  - 203.*+ android version
+ - Custom Agent
  - **Headers Based Authentication**
  - **Electron Support **(https://github.com/kingbotss/igportable)
  - **Registration**
  - **Web API (native login)**
- - support clips(only load and seen)
+ - support clips/reels(only load and seen)
 
  **Issues**
  - Kindly ping me.
