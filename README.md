@@ -22,8 +22,9 @@ Email: *kingbotspower@gmail.com*
  - **http2** support
  - proxy support
  - **GraphQL** queries
+ - **Login/Signup** with **Facebook**
  - **Client Event Logging**
- - 203.*+ android version
+ - 203.*+ android version(works with latest version)
  - Custom Agent
  - **Headers Based Authentication**
  - **Electron Support** (https://github.com/kingbotss/igportable)
